@@ -48,7 +48,7 @@ padding: 0 146px 0 146px;
 #beans{
    height: 300px;
    width: 300px;
-   border-radius: 4px%;
+   border-radius: 4px;
 }
 #henesy{
    display: flex;
@@ -102,14 +102,14 @@ button{
    margin-right: 26px;
 }
  #optimus{
-    background-color: bisque;
+    background-color: greenyellow;
     color: black;
     margin-right: 20px;
     padding: 25px;
     border-radius: 4px;
  }
  #madmax{
-    background-color: bisque;
+    background-color: greenyellow;
     
     padding: 25px;
     border-radius: 4px;
@@ -143,9 +143,7 @@ button{
    margin-right: 18px;
  }
  
- #science{
-   display: ;
- }
+ 
 
  #teen{
    width: 246px;
@@ -156,8 +154,7 @@ button{
    display: flex;
  }
 #priest{
-   background-color: bisque;
-   width: 418px;
+   background-color: gold;
    padding: 20px;
    border-radius: 4px;
 }
@@ -169,8 +166,7 @@ border-radius: 4px;
 padding: 25px;
 }
 #damian{
-   background-color: bisque;
-   width: 418px;
+   background-color: gold;
    padding: 25px;
    border-radius: 4px;
 }
@@ -209,8 +205,7 @@ padding: 25px;
    align-items: center;
 }
 #rice{
-   background-color: bisque;
-   width: 418px;
+   background-color: gold;
    padding: 25px;
    border-radius: 4px;
 }
@@ -251,8 +246,8 @@ padding: 25px;
 
 }
 #robin{
-   width: 35px;
-   height: 35px;
+   width: 30px;
+   height: 30px;
    margin-right: 10px;
 }
 #cake{
@@ -278,6 +273,7 @@ padding: 25px;
    display: flex;
    justify-content: space-evenly;
    margin-right: 100px;
+   margin-top: 85px;
    height: 50pxs;
    ;
    flex-direction: column;
@@ -290,4 +286,8 @@ padding: 25px;
 #mice{
    display: flex;
    justify-content: center;
+}
+
+#recent-post-section {
+   background-color: aqua;
 }
